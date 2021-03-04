@@ -1,2 +1,2 @@
 # hello-world
-For an assignment...
+Alec Nugent
